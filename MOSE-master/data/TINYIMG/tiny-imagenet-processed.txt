@@ -1,0 +1,1 @@
+tiny-imagenet-processed.zip在这里解压，在这里放一个processed目录
